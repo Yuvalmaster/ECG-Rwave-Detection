@@ -1,7 +1,12 @@
+# R wave Detection of ECG Signals 💓!
+
+[ECG Signal](https://github.com/Yuvalmaster/ECG-Rwave-Detection/assets/121662835/56a1c689-f4f1-4133-aa4f-2c0ee2dc9c19)
+
 ## Project Description
-The project aims to analyze and process physiological signals to extract meaningful information and gain insights into human health and well-being. 
-- Rwave Detection of ECG Signals:
-The Rwave Detection of ECG Signals project involves the processing and analysis of electrocardiogram (ECG) signals. 
-The project includes filtering techniques to remove noise and artifacts from the signals, thereby enhancing the accuracy of subsequent analyses. 
-The primary focus is on detecting the R wave, a prominent feature in the ECG waveform that corresponds to ventricular depolarization. 
-Accurate R wave detection is essential for various applications, including heart rate calculation, arrhythmia detection, and ECG-based diagnostic systems.
+### Overview
+The project aims to analyze and process ECG signals to extract QRS complexes using R wave Detection algorithms.
+
+### Features
+* Signal filtering techniques to remove noise and artifacts from ECG signals.
+* Detection of the R wave, a prominent feature in the ECG waveform corresponding to ventricular depolarization.
+* Heart rate calculation, arrhythmia detection, and ECG-based diagnostic systems.
