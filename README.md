@@ -33,4 +33,4 @@ The repository is structured in a way that facilitates easy navigation and utili
 
 Functions: The Functions folder contains MATLAB functions and scripts that are essential for signal processing, R wave detection, and related analyses. These functions are organized systematically to promote modularity and reusability.
 
-Data: The Data folder contains the ECG signal datasets used in the project. These datasets may include both raw and preprocessed signals, allowing users to explore different stages of signal processing.
+Data: The Data folder contains the ECG signals used in the project.
