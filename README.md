@@ -31,6 +31,6 @@ By following these steps, the AF2 algorithm aims to detect R waves, which corres
 ## Repository Structure
 The repository is structured in a way that facilitates easy navigation and utilization of the project resources. Here's an overview of the main components:
 
-Functions: The Functions folder contains MATLAB functions and scripts that are essential for signal processing, R wave detection, and related analyses. These functions are organized systematically to promote modularity and reusability.
+Functions: The Functions folder contains MATLAB functions and scripts that are essential for signal processing, R wave detection, and related analyses.
 
 Data: The Data folder contains the ECG signals used in the project.
